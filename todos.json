@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Finishing writing books chapter"
+    },
+    {
+      "id": "c4b580ab-db56-4b8e-bd2e-ee8f5fe37ed4",
+      "text": "Bring more food now!"
+    },
+    {
+      "id": "fad43a97-a61c-4e41-a0dd-1eff5b352d96",
+      "text": "Create powerpoint discussion"
+    }
+  ]
+}
