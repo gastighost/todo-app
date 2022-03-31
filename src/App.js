@@ -1,6 +1,5 @@
 import React, { useReducer } from 'react';
 import ToDoList from './ToDoList';
-import { v4 as uuidv4 } from 'uuid';
 
 const todosInitialState = {
   todos:[]
